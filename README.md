@@ -12,4 +12,4 @@ I simply remove the icon from the menubar.
 
 # Download
 
-https://github.com/Plastic-1/MiddleClick/releases
+https://github.com/aeddi/MiddleClick/releases
